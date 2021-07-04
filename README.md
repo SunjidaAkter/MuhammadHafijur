@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif | width=600)
+![Alt Text](https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif width="200px")
 
 ![Alt Text](https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif)
 
