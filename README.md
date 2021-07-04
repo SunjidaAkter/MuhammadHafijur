@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif" width="500px">
 </p>
-![Alt Text](https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif)
-<img src="https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif" width="700px">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="400px">
+</p>
 ![Alt Text](https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif)
 
 
