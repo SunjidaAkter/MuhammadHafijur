@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="400px">
+  <img src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="200px">
 </p>
-![Alt Text](https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif)
 
 
 ### Hi there, I'm Muhammad Hafijur - 👋
