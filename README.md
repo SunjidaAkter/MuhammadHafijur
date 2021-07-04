@@ -1,3 +1,6 @@
+![Alt Text](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+
+
 ### Hi there, I'm Muhammad Hafijur - 👋
 
 ## I'm a Student, Explorer, Developer, and Teacher!!
