@@ -6,6 +6,8 @@
   <img style="border-radius: 50%;" src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="200px">
 </p>
 
+![image title](https://rushter.com/counter.svg)
+
 
 ### Hi there, I'm Muhammad Hafijur - 👋
 
