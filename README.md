@@ -6,7 +6,7 @@
   <img style="border-radius: 50%;" src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="200px">
 </p>
 
-![](https://komarev.com/ghpvc/?username=MuhammadHafijur &color=1abc9c)
+![](https://komarev.com/ghpvc/?username=MuhammadHafijur&color=1abc9c)
 
 
 ### Hi there, I'm Muhammad Hafijur - 👋
