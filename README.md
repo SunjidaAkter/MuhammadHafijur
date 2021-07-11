@@ -16,9 +16,10 @@
 
 - 🔭 I'm currently working on MERN STACK : !
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects InShaAllah
 - ⚡ Fun fact: I love to travel other places and explore new thing
+
+- ⚡ Operating System: Linux, Windows
 
 
 ### Connect with me:
