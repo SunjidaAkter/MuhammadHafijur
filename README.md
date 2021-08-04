@@ -7,6 +7,10 @@
 <p>As salamu alaykum. I'm Muhammad Hafijur Rahman, a multidisciplinary designer who focuses on telling my clients’ stories visually, through enjoyable and meaningful experiences. I specialize in responsive websites and functional user interfaces.</p>
 <h1>Skills</h1>
 <h3>Javascript | Php </h3>
+
+<h1>Database</h1>
+<h3>MongoDB</h3>
+
 <h1>Tools</h1>
 <h3>Git</h3>
 <p align="center">
