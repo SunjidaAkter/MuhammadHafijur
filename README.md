@@ -9,8 +9,7 @@
 <h2>Favourite Operation System</h2>
 <h3>Kali Linux 2021.2 | Windows 10</h3>
 
-<h1>Skills</h1>
-
+<h2>Skills</h2>
 <h3>Javascript | Php </h3>
 
 <h1>Database</h1>
