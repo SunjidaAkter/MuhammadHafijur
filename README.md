@@ -6,7 +6,7 @@
 <h1>A FEW WORDS ABOUT ME</h1>
 <p>As salamu alaykum. I'm Muhammad Hafijur Rahman, a multidisciplinary designer who focuses on telling my clients’ stories visually, through enjoyable and meaningful experiences. I specialize in responsive websites and functional user interfaces.</p>
 
-<h1>Favourite Operation System</h1>
+<h2>Favourite Operation System</h2>
 <h3>Kali Linux 2021.2 | Windows 10</h3>
 
 <h1>Skills</h1>
