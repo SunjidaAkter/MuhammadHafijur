@@ -14,6 +14,10 @@
 
 <h1>Tools</h1>
 <h3>Git</h3>
+
+<h1>Front-End</h1>
+<h3>HTML5 | CSS3 | Bootstrap | Javascript | jQuery</h3>
+
 <p align="center">
   <img style="border-radius: 50%;" src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="200px">
 </p>
