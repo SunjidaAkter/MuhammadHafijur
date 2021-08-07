@@ -12,13 +12,13 @@
 <h2>Skills</h2>
 <h3>Javascript | Php </h3>
 
-<h1>Database</h1>
+<h2>Database</h2>
 <h3>MongoDB</h3>
 
-<h1>Tools</h1>
+<h2>Tools</h2>
 <h3>Git</h3>
 
-<h1>Front-End</h1>
+<h2>Front-End</h2>
 <h3>HTML5 | CSS3 | Bootstrap | Javascript | jQuery</h3>
 
 <p align="center">
