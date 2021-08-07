@@ -6,19 +6,19 @@
 <h1>A FEW WORDS ABOUT ME</h1>
 <p>As salamu alaykum. I'm Muhammad Hafijur Rahman, a multidisciplinary designer who focuses on telling my clients’ stories visually, through enjoyable and meaningful experiences. I specialize in responsive websites and functional user interfaces.</p>
 
-<h2>Favourite Operation System</h2>
+<h1>Favourite Operation System</h1>
 <h3>Kali Linux 2021.2 | Windows 10</h3>
 
-<h2>Skills</h2>
+<h1>Skills</h1>
 <h3>Javascript | Php </h3>
 
-<h2>Database</h2>
+<h1>Database</h1>
 <h3>MongoDB</h3>
 
-<h2>Tools</h2>
+<h1>Tools</h1>
 <h3>Git</h3>
 
-<h2>Front-End</h2>
+<h1>Front-End</h1>
 <h3>HTML5 | CSS3 | Bootstrap | Javascript | jQuery</h3>
 
 <p align="center">
