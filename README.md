@@ -30,11 +30,6 @@
 <h1>Favourite Operation System</h1>
 <h3>Kali Linux 2021.2  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | Windows 10</h3>
 
-
-
-<h1>Skills</h1>
-<br>
-<hr>
 <h1>Programming Languages</h1>
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
@@ -89,20 +84,11 @@
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhafijur&show_icons=true&locale=en" alt="muhammadhafijur" /></p>
 
 <p align="center">
   <img style="border-radius: 50%;" src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="200px">
 </p>
-
-
-<!-- TTTTTEEEEESSSSSTTTTTIIIINNNGGGG -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhafijur&show_icons=true&locale=en&layout=compact" alt="muhammadhafijur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhafijur&show_icons=true&locale=en" alt="muhammadhafijur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhafijur&" alt="muhammadhafijur" /></p>
 
 
 
