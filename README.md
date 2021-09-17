@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://hafijur-rahman.netlify.app/](https://hafijur-rahman.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://hafijur-rahman.netlify.app/](https://hafijur-rahman.netlify.app/) -->
 
 - 📫 How to reach me **hafijur.salah@gmail.com**
 
