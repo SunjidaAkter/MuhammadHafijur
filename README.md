@@ -87,6 +87,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhafijur&show_icons=true&locale=en" alt="muhammadhafijur" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img style="border-radius: 50%;" src="https://media.giphy.com/media/tgsnF9X9cNRtgt7TKq/giphy.gif" width="200px">
 </p>
