@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=MuhammadHafijur&color=2ecc71)
       
 <p align="center">
-  <img src="https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif" width="80%">
+  <img src="https://media.giphy.com/media/GUTsfRlXnUtgHb3KMz/giphy.gif" width="90% height="500px">
 </p>
                                  
 <h1 align="center">Hi 👋, I'm Md. Hafijur Rahman</h1>
